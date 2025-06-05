@@ -30,5 +30,21 @@
     {
         "role": "assistant",
         "content": "Bye!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Bye!"
     }
 ]
