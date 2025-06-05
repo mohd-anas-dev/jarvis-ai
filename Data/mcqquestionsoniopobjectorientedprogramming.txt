@@ -1,0 +1,75 @@
+Here are some MCQ questions on Object-Oriented Programming (OOP) in Java:
+
+**Question 1**
+What is the concept of encapsulation in OOP?
+a) Hiding the implementation details of an object from the outside world
+b) Exposing the implementation details of an object to the outside world
+c) Creating multiple objects of the same class
+d) Inheriting properties from a parent class
+
+Answer: a) Hiding the implementation details of an object from the outside world
+
+**Question 2**
+What is the purpose of a constructor in OOP?
+a) To destroy an object
+b) To create an object with default values
+c) To create an object with user-defined values
+d) To extend the functionality of an object
+
+Answer: c) To create an object with user-defined values
+
+**Question 3**
+What is inheritance in OOP?
+a) A mechanism to create multiple objects of the same class
+b) A mechanism to create a new class based on an existing class
+c) A mechanism to override the methods of a parent class
+d) A mechanism to destroy an object
+
+Answer: b) A mechanism to create a new class based on an existing class
+
+**Question 4**
+What is polymorphism in OOP?
+a) The ability of an object to take on multiple forms
+b) The ability of an object to take on only one form
+c) The ability of a method to perform different actions based on the type of object passed to it
+d) The ability of an object to inherit properties from a parent class
+
+Answer: c) The ability of a method to perform different actions based on the type of object passed to it
+
+**Question 5**
+What is abstraction in OOP?
+a) The process of creating a new class based on an existing class
+b) The process of hiding the implementation details of an object from the outside world
+c) The process of exposing the implementation details of an object to the outside world
+d) The process of creating multiple objects of the same class
+
+Answer: b) The process of hiding the implementation details of an object from the outside world
+
+**Question 6**
+What is the difference between `this` and `super` keywords in OOP?
+a) `this` refers to the current object, while `super` refers to the parent object
+b) `this` refers to the parent object, while `super` refers to the current object
+c) `this` is used to call a method of the current object, while `super` is used to call a method of the parent object
+d) `this` is used to call a method of the parent object, while `super` is used to call a method of the current object
+
+Answer: a) `this` refers to the current object, while `super` refers to the parent object
+
+**Question 7**
+What is the purpose of an interface in OOP?
+a) To define the behavior of a class
+b) To create a new class based on an existing class
+c) To expose the implementation details of an object to the outside world
+d) To hide the implementation details of an object from the outside world
+
+Answer: a) To define the behavior of a class
+
+**Question 8**
+What is the difference between an abstract class and an interface in OOP?
+a) An abstract class can have both abstract and concrete methods, while an interface can only have abstract methods
+b) An abstract class can only have abstract methods, while an interface can have both abstract and concrete methods
+c) An abstract class is used to define a blueprint for an object, while an interface is used to define a contract
+d) An abstract class is used to define a contract, while an interface is used to define a blueprint
+
+Answer: c) An abstract class is used to define a blueprint for an object, while an interface is used to define a contract
+
+Let me know if you want me to add more questions!

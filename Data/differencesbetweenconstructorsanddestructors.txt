@@ -1,0 +1,28 @@
+Here are the main differences between constructors and destructors in C++:
+
+**Constructors:**
+
+1. **Purpose:** Constructors are used to initialize objects when they are created. They are called when an object is declared or instantiated.
+2. **Syntax:** The syntax for a constructor is similar to a function, but it has the same name as the class and does not have a return type.
+3. **Called:** Constructors are called when an object is created, and they are responsible for initializing the object's data members.
+4. **Return type:** Constructors do not have a return type, not even `void`.
+5. **Called only once:** Constructors are called only once, when the object is created.
+6. **Useful for:** Initializing objects, setting default values, and performing any necessary setup or initialization.
+
+**Destructors:**
+
+1. **Purpose:** Destructors are used to release resources, such as memory, when an object is destroyed. They are called when an object goes out of scope or is deleted.
+2. **Syntax:** The syntax for a destructor is similar to a constructor, but it has a tilde (~) symbol before the class name.
+3. **Called:** Destructors are called when an object is destroyed, and they are responsible for releasing any resources allocated by the object.
+4. **Return type:** Destructors do not have a return type, not even `void`.
+5. **Called multiple times:** Destructors are called multiple times, once for each object that is destroyed.
+6. **Useful for:** Releasing resources, such as memory, and performing any necessary cleanup or teardown.
+
+**Key differences:**
+
+1. **Purpose:** Constructors initialize objects, while destructors release resources.
+2. **Called:** Constructors are called when an object is created, while destructors are called when an object is destroyed.
+3. **Return type:** Both constructors and destructors do not have a return type.
+4. **Syntax:** Constructors and destructors have similar syntax, but constructors do not have a return type and destructors have a tilde (~) symbol before the class name.
+
+I hope this helps! Let me know if you have any further questions.

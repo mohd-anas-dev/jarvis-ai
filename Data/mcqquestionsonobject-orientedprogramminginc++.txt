@@ -1,0 +1,91 @@
+Here are some MCQ questions on Object-Oriented Programming in C++:
+
+**Question 1**
+What is the purpose of the `class` keyword in C++?
+a) To define a function
+b) To define a variable
+c) To define a class
+d) To define a structure
+
+Answer: c) To define a class
+
+**Question 2**
+What is the difference between a `public` and a `private` member variable in C++?
+a) Public variables can be accessed from outside the class, while private variables cannot
+b) Public variables cannot be accessed from outside the class, while private variables can
+c) Public variables are used for inheritance, while private variables are used for polymorphism
+d) Public variables are used for polymorphism, while private variables are used for inheritance
+
+Answer: a) Public variables can be accessed from outside the class, while private variables cannot
+
+**Question 3**
+What is the purpose of a constructor in C++?
+a) To destroy an object
+b) To create an object with default values
+c) To create an object with user-defined values
+d) To extend the functionality of an object
+
+Answer: c) To create an object with user-defined values
+
+**Question 4**
+What is the difference between `this` and `super` keywords in C++?
+a) `this` refers to the current object, while `super` refers to the parent object
+b) `this` refers to the parent object, while `super` refers to the current object
+c) `this` is used to call a method of the current object, while `super` is used to call a method of the parent object
+d) `this` is used to call a method of the parent object, while `super` is used to call a method of the current object
+
+Answer: a) `this` refers to the current object, while `super` refers to the parent object
+
+**Question 5**
+What is polymorphism in C++?
+a) The ability of an object to take on multiple forms
+b) The ability of an object to take on only one form
+c) The ability of a method to perform different actions based on the type of object passed to it
+d) The ability of an object to inherit properties from a parent class
+
+Answer: c) The ability of a method to perform different actions based on the type of object passed to it
+
+**Question 6**
+What is inheritance in C++?
+a) A mechanism to create a new class based on an existing class
+b) A mechanism to create multiple objects of the same class
+c) A mechanism to override the methods of a parent class
+d) A mechanism to destroy an object
+
+Answer: a) A mechanism to create a new class based on an existing class
+
+**Question 7**
+What is the purpose of a virtual function in C++?
+a) To provide a default implementation for a function
+b) To override a function in a parent class
+c) To provide a polymorphic behavior
+d) To provide a constant value
+
+Answer: c) To provide a polymorphic behavior
+
+**Question 8**
+What is the difference between a `virtual` and a `pure virtual` function in C++?
+a) A virtual function is a function that can be overridden, while a pure virtual function is a function that must be overridden
+b) A virtual function is a function that must be overridden, while a pure virtual function is a function that can be overridden
+c) A virtual function is a function that provides a default implementation, while a pure virtual function is a function that does not provide a default implementation
+d) A virtual function is a function that does not provide a default implementation, while a pure virtual function is a function that provides a default implementation
+
+Answer: a) A virtual function is a function that can be overridden, while a pure virtual function is a function that must be overridden
+
+**Question 9**
+What is the purpose of a `friend` function in C++?
+a) To provide a default implementation for a function
+b) To override a function in a parent class
+c) To provide a polymorphic behavior
+d) To grant access to a non-member function to access the private and protected members of a class
+
+Answer: d) To grant access to a non-member function to access the private and protected members of a class
+
+**Question 10**
+What is the purpose of a `const` keyword in C++?
+a) To make a variable immutable
+b) To make a function immutable
+c) To make a class immutable
+d) To make a variable variable
+
+Answer: a) To make a variable immutable

@@ -1,0 +1,81 @@
+Here are 10 MCQs on Partial Differentiation:
+
+**1. What is partial differentiation?**
+a) Differentiation of a function with respect to its entire domain
+b) Differentiation of a function with respect to a specific variable
+c) Integration of a function with respect to a specific variable
+d) None of the above
+
+Answer: b) Differentiation of a function with respect to a specific variable
+
+**2. Which of the following is an example of partial differentiation?**
+a) Finding the derivative of y with respect to x in the equation y = 3x^2
+b) Finding the derivative of z with respect to y in the equation z = 2y^2 + 3x
+c) Finding the derivative of x with respect to y in the equation x = 2y
+d) None of the above
+
+Answer: b) Finding the derivative of z with respect to y in the equation z = 2y^2 + 3x
+
+**3. What is the partial derivative of f(x,y) with respect to x?**
+a) The derivative of f(x,y) with respect to both x and y
+b) The derivative of f(x,y) with respect to x only
+c) The derivative of f(x,y) with respect to y only
+d) None of the above
+
+Answer: b) The derivative of f(x,y) with respect to x only
+
+**4. Which of the following is a partial derivative?**
+a) ∂f/∂x
+b) ∂f/∂y
+c) f'(x)
+d) f'(y)
+
+Answer: a) ∂f/∂x and b) ∂f/∂y
+
+**5. What is the physical interpretation of the partial derivative of a function?**
+a) The rate of change of the function with respect to its entire domain
+b) The rate of change of the function with respect to a specific variable
+c) The value of the function at a specific point
+d) None of the above
+
+Answer: b) The rate of change of the function with respect to a specific variable
+
+**6. Which of the following is NOT a method for finding partial derivatives?**
+a) Using the limit definition
+b) Using the power rule
+c) Using implicit differentiation
+d) Using the quotient rule
+
+Answer: d) Using the quotient rule (the quotient rule is used for finding ordinary derivatives, not partial derivatives)
+
+**7. What is the partial derivative of f(x,y) = x^2y with respect to y?**
+a) 2xy
+b) x^2
+c) y
+d) None of the above
+
+Answer: a) 2xy
+
+**8. Which of the following is a partial differential equation?**
+a) ∂u/∂x = 2x
+b) ∂u/∂y = 3y
+c) u_xx + u_yy = 0
+d) None of the above
+
+Answer: c) u_xx + u_yy = 0
+
+**9. What is the partial derivative of f(x,y) = sin(x+y) with respect to x?**
+a) cos(x+y)
+b) sin(x+y)
+c) 1
+d) None of the above
+
+Answer: a) cos(x+y)
+
+**10. Which of the following is a real-world application of partial differentiation?**
+a) Modeling population growth
+b) Modeling electric circuits
+c) Modeling fluid flow
+d) All of the above
+
+Answer: d) All of the above

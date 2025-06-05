@@ -1,0 +1,91 @@
+Here are 10 MCQ questions on the topic of Object-Oriented Programming (OOP):
+
+**Question 1**
+What is the main goal of Object-Oriented Programming (OOP)?
+a) To create simple programs
+b) To improve code reusability
+c) To reduce code complexity
+d) To increase code readability
+
+Answer: b) To improve code reusability
+
+**Question 2**
+What is encapsulation in OOP?
+a) Hiding the implementation details of an object from the outside world
+b) Exposing the implementation details of an object to the outside world
+c) Creating multiple objects of the same class
+d) Inheriting properties from a parent class
+
+Answer: a) Hiding the implementation details of an object from the outside world
+
+**Question 3**
+What is inheritance in OOP?
+a) A mechanism to create a new class based on an existing class
+b) A mechanism to create multiple objects of the same class
+c) A mechanism to override the methods of a parent class
+d) A mechanism to destroy an object
+
+Answer: a) A mechanism to create a new class based on an existing class
+
+**Question 4**
+What is polymorphism in OOP?
+a) The ability of an object to take on multiple forms
+b) The ability of an object to take on only one form
+c) The ability of a method to perform different actions based on the type of object passed to it
+d) The ability of an object to inherit properties from a parent class
+
+Answer: c) The ability of a method to perform different actions based on the type of object passed to it
+
+**Question 5**
+What is abstraction in OOP?
+a) The process of hiding the implementation details of an object from the outside world
+b) The process of exposing the implementation details of an object to the outside world
+c) The process of creating multiple objects of the same class
+d) The process of creating a new class based on an existing class
+
+Answer: a) The process of hiding the implementation details of an object from the outside world
+
+**Question 6**
+What is the purpose of a constructor in OOP?
+a) To destroy an object
+b) To create an object with default values
+c) To create an object with user-defined values
+d) To extend the functionality of an object
+
+Answer: c) To create an object with user-defined values
+
+**Question 7**
+What is the difference between a public and private method in OOP?
+a) Public methods can be accessed from outside the class, while private methods can only be accessed within the class
+b) Public methods can only be accessed within the class, while private methods can be accessed from outside the class
+c) Public methods are used for inheritance, while private methods are used for polymorphism
+d) Public methods are used for polymorphism, while private methods are used for inheritance
+
+Answer: a) Public methods can be accessed from outside the class, while private methods can only be accessed within the class
+
+**Question 8**
+What is the purpose of an interface in OOP?
+a) To define the behavior of a class
+b) To create a new class based on an existing class
+c) To expose the implementation details of an object to the outside world
+d) To hide the implementation details of an object from the outside world
+
+Answer: a) To define the behavior of a class
+
+**Question 9**
+What is the difference between an abstract class and a concrete class in OOP?
+a) An abstract class is a blueprint for an object, while a concrete class is a fully implemented class
+b) An abstract class is a fully implemented class, while a concrete class is a blueprint for an object
+c) An abstract class has abstract methods, while a concrete class has concrete methods
+d) An abstract class has concrete methods, while a concrete class has abstract methods
+
+Answer: a) An abstract class is a blueprint for an object, while a concrete class is a fully implemented class
+
+**Question 10**
+What is the purpose of a final keyword in OOP?
+a) To make a method or variable public
+b) To make a method or variable private
+c) To prevent a class from being inherited
+d) To prevent a method from being overridden
+
+Answer: d) To prevent a method from being overridden

@@ -1,0 +1,31 @@
+In Object-Oriented Programming (OOP) with C++, `intangible` and `tangible` refer to the type of objects that can be created and manipulated in a program.
+
+**Tangible Objects:**
+
+Tangible objects are physical objects that can be perceived and interacted with through our senses. In C++, tangible objects are typically represented by objects that have a physical presence, such as:
+
+* A `Car` object that represents a physical vehicle
+* A `Person` object that represents a physical human being
+* A `Book` object that represents a physical book
+
+Tangible objects typically have properties and behaviors that are related to their physical existence, such as:
+
+* A `Car` object might have properties like `color`, `make`, and `model`, and behaviors like `startEngine()` and `accelerate()`
+* A `Person` object might have properties like `name`, `age`, and `address`, and behaviors like `eat()` and `sleep()`
+* A `Book` object might have properties like `title`, `author`, and `publisher`, and behaviors like `read()` and `borrow()`
+
+**Intangible Objects:**
+
+Intangible objects, on the other hand, are abstract objects that do not have a physical presence and cannot be perceived through our senses. In C++, intangible objects are typically represented by objects that represent concepts, ideas, or relationships, such as:
+
+* A `Date` object that represents a specific date and time
+* A `CreditCard` object that represents a financial transaction
+* A `Membership` object that represents a user's membership in a club or organization
+
+Intangible objects typically have properties and behaviors that are related to their abstract nature, such as:
+
+* A `Date` object might have properties like `year`, `month`, and `day`, and behaviors like `addDays()` and `compareTo()`
+* A `CreditCard` object might have properties like `number`, `expirationDate`, and `securityCode`, and behaviors like `charge()` and `refund()`
+* A `Membership` object might have properties like `name`, `type`, and `expirationDate`, and behaviors like `join()` and ` renew()`
+
+In summary, tangible objects are physical objects that can be perceived and interacted with through our senses, while intangible objects are abstract objects that represent concepts, ideas, or relationships. Both types of objects can be created and manipulated in a C++ program using Object-Oriented Programming (OOP) concepts like classes, objects, and methods.

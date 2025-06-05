@@ -1,0 +1,89 @@
+Here are 10 MCQ questions on constructors and destructors in C++:
+
+**Question 1**
+What is the primary purpose of a constructor in C++?
+a) To free memory allocated by an object
+b) To initialize the state of an object
+c) To destroy an object
+d) To copy an object
+
+Answer: b) To initialize the state of an object
+
+**Question 2**
+Which of the following is a valid declaration of a constructor in C++?
+a) `MyClass() { ... }`
+b) `MyClass(int x) { ... }`
+c) `MyClass() = 0;`
+d) `MyClass() {}`
+
+Answer: b) `MyClass(int x) { ... }`
+
+**Question 3**
+What happens when a constructor is called in C++?
+a) The object is destroyed
+b) The object is created and initialized
+c) The object is copied
+d) The object is moved
+
+Answer: b) The object is created and initialized
+
+**Question 4**
+What is the purpose of a destructor in C++?
+a) To free memory allocated by an object
+b) To initialize the state of an object
+c) To destroy an object
+d) To copy an object
+
+Answer: c) To destroy an object
+
+**Question 5**
+Which of the following is a valid declaration of a destructor in C++?
+a) `~MyClass() { ... }`
+b) `MyClass() { ... }`
+c) `MyClass(int x) { ... }`
+d) `MyClass() = 0;`
+
+Answer: a) `~MyClass() { ... }`
+
+**Question 6**
+What happens when a destructor is called in C++?
+a) The object is created and initialized
+b) The object is destroyed
+c) The object is copied
+d) The object is moved
+
+Answer: b) The object is destroyed
+
+**Question 7**
+Can a constructor have a return type in C++?
+a) Yes
+b) No
+
+Answer: b) No
+
+**Question 8**
+Can a destructor have a return type in C++?
+a) Yes
+b) No
+
+Answer: b) No
+
+**Question 9**
+What is the difference between a default constructor and a parameterized constructor in C++?
+a) A default constructor has no parameters, while a parameterized constructor has parameters
+b) A default constructor has parameters, while a parameterized constructor has no parameters
+c) A default constructor is used to initialize objects, while a parameterized constructor is used to copy objects
+d) A default constructor is used to copy objects, while a parameterized constructor is used to initialize objects
+
+Answer: a) A default constructor has no parameters, while a parameterized constructor has parameters
+
+**Question 10**
+What is the purpose of the `default` keyword in a constructor in C++?
+a) To specify the number of parameters
+b) To specify the return type
+c) To specify the name of the constructor
+d) To specify that the constructor is default
+
+Answer: d) To specify that the constructor is default
+
+I hope these questions help you assess your understanding of constructors and destructors in C++!

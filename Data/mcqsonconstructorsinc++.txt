@@ -1,0 +1,92 @@
+Here are 10 MCQs on constructors in C++:
+
+**MCQs on Constructors in C++**
+
+1. What is the purpose of a constructor in C++?
+a) To destroy objects
+b) To initialize objects
+c) To copy objects
+d) To move objects
+
+Answer: b) To initialize objects
+
+2. What is a default constructor in C++?
+a) A constructor with no parameters
+b) A constructor with one parameter
+c) A constructor with multiple parameters
+d) A constructor with no return type
+
+Answer: a) A constructor with no parameters
+
+3. What is a parameterized constructor in C++?
+a) A constructor with no parameters
+b) A constructor with one parameter
+c) A constructor with multiple parameters
+d) A constructor with no return type
+
+Answer: c) A constructor with multiple parameters
+
+4. What is the difference between a default constructor and a parameterized constructor?
+a) A default constructor is used to copy objects, while a parameterized constructor is used to move objects
+b) A default constructor is used to initialize objects with default values, while a parameterized constructor is used to initialize objects with specific values
+c) A default constructor is used to initialize objects with specific values, while a parameterized constructor is used to initialize objects with default values
+d) A default constructor is used to destroy objects, while a parameterized constructor is used to create objects
+
+Answer: b) A default constructor is used to initialize objects with default values, while a parameterized constructor is used to initialize objects with specific values
+
+5. How do you declare a constructor in C++?
+a) Using the `new` keyword
+b) Using the `delete` keyword
+c) Using the `construct` keyword
+d) Using the constructor name followed by parentheses
+
+Answer: d) Using the constructor name followed by parentheses
+
+6. What is an example of a parameterized constructor in C++?
+```cpp
+class Person {
+public:
+    Person(string name, int age) {
+        this->name = name;
+        this->age = age;
+    }
+};
+```
+a) `Person()`
+b) `Person(string, int)`
+c) `Person(string, int, float)`
+d) `Person(float, int, string)`
+
+Answer: b) `Person(string, int)`
+
+7. Can you have multiple constructors in a class in C++?
+a) Yes, you can have multiple constructors in a class
+b) No, you can only have one constructor in a class
+c) Yes, but only one default constructor
+d) Yes, but only one parameterized constructor
+
+Answer: a) Yes, you can have multiple constructors in a class
+
+8. What is the purpose of a copy constructor in C++?
+a) To copy objects
+b) To move objects
+c) To initialize objects
+d) To destroy objects
+
+Answer: a) To copy objects
+
+9. How do you overload constructors in C++?
+a) By using different names for the constructors
+b) By using different parameters for the constructors
+c) By using different return types for the constructors
+d) By using different syntax for the constructors
+
+Answer: b) By using different parameters for the constructors
+
+10. Can you have a constructor with no return type in C++?
+a) Yes, you can have a constructor with no return type
+b) No, you cannot have a constructor with no return type
+c) Yes, but only for default constructors
+d) Yes, but only for parameterized constructors
+
+Answer: a) Yes, you can have a constructor with no return type

@@ -1,0 +1,30 @@
+Here is a sample application for leave from school:
+
+**Leave Application for [Child's Name]**
+
+**To,**
+
+The Principal,
+[School Name]
+[School Address]
+
+**Date,**
+
+Subject: Request for Leave for [Number] Days
+
+Respected Sir/Madam,
+
+I am writing to request a leave for my child, [Child's Name], from [School Name] for [Number] days starting from [Date] to [Date]. The reason for the leave is [briefly mention the reason, e.g., family trip, personal work, health issue, etc.].
+
+I have made necessary arrangements for my child's education during this period and will ensure that all his/her schoolwork is completed before the leave. I will also provide any necessary documents or assignments to the school before my child's departure.
+
+I would be grateful if you could grant me this leave. If there are any issues or concerns, please do not hesitate to contact me.
+
+Thank you for your time and consideration.
+
+**Parents' Signature:** ______________________________________
+**Child's Name:** ________________________________________
+**Class:** ________________________________________
+**Date of Birth:** ______________________________________
+
+**Note:** Please attach a photocopy of the child's ID card and a medical certificate (if applicable) with the application.
